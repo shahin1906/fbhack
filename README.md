@@ -14,3 +14,5 @@ git clone https://github.com/shahin1906/fbhack
 cd fbhack
 
 chmod +x *
+
+python2 cracknew.py
